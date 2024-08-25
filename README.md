@@ -1,15 +1,46 @@
-# Hello, I'm Eli
+<h1 align="center">Hi there, I'm Eli👋</h1>
+<p align="center">
+  <strong>Frontend Developer | Tech Enthusiast</strong>
+</p>
 
-## My Teck Stack
-<img  src  = "https://github.com/user-attachments/assets/7ef47eaf-1375-4ff5-9386-cd4bf1e126f4" style="width:50px">
-<img  src  = "https://github.com/user-attachments/assets/4541d8c9-9732-4005-a44b-eef0ed391b32" style="width:50px">
-<img  src  = "https://github.com/user-attachments/assets/692f7014-1eb6-4e8a-b041-45002f259f70" style="width:50px">
-<img  src  = "https://github.com/user-attachments/assets/af5500d9-9ce3-4422-b3b2-7defadb5cac3" style="width:50px">
-<img  src  = "https://github.com/user-attachments/assets/aa10c791-393e-4679-b190-6780e93f97ed" style="width:50px">
-<img  src  = "https://github.com/user-attachments/assets/3e142ab1-79ca-483b-bcfc-dfa8b23eee4c" style="width:50px">
-<img  src  = "https://github.com/user-attachments/assets/89fa7217-1a7b-419c-9608-c74e6ecf10f7" style="width:50px">
-<img  src  = "https://github.com/user-attachments/assets/46e1c852-0a31-4821-a345-e6fb0e26e098" style="width:50px">
-<img  src  = "https://github.com/user-attachments/assets/ccdaa91f-95aa-41cf-92ce-9dc1121e6b44" style="width:50px">
-<img  src  = "https://github.com/user-attachments/assets/f8bf2806-4ecf-476f-a2a5-981642c1bfce" style="width:50px">
-<img  src  = "https://github.com/user-attachments/assets/af94ac18-b13b-4c2d-b978-7c1656ac2fdb" style="width:50px">
-<img  src  = "https://github.com/user-attachments/assets/74c90224-e28f-4276-968d-013790144e17" style="width:50px">
+---
+### 🌟 About Me
+
+- 🔭 **Currently working on**: [ Building projects for my Portfolio](https://yourprojectlink.com](https://eliqarayev.vercel.app/))
+- 🌱 **Learning**: Continuously exploring new technologies and improving skills
+- 💬 **Ask me about**: Frontend development, JavaScript, or music coding!
+- 🎨 **Design Inspiration**: Functional and minimalistic design
+- 🕹️ **Hobbies**: Coding, Music production
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src = "https://img.shields.io/badge/html-gray?logo=html5"/>
+  <img src = "https://img.shields.io/badge/css-gray?logo=css3"/>
+  <img src = "https://img.shields.io/badge/bootstrap-gray?logo=bootstrap"/>
+  <img src = "https://img.shields.io/badge/tailwind-gray?logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/javascript-gray?logo=javascript">
+  <img src="https://img.shields.io/badge/typescript-gray?logo=typescript">
+  <img src="https://img.shields.io/badge/react.js-gray?logo=react">
+  <img src="https://img.shields.io/badge/next.js-gray?logo=next.js">
+  <img src="https://img.shields.io/badge/svelte-gray?logo=svelte">
+</p>
+
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhy6x&layout=compact&theme=radical" alt="Top Languages">
+  <img src = "https://github.r2v.ch/codewars?user=rhy6x&theme=gradient_midnight_puple" width="430px"  alt="Codewars Status"/>
+</p>
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eli-qarayev"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin"></a>
+</p>
+
+
+
+
+
