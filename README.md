@@ -29,10 +29,12 @@
 
 ### 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhy6x&layout=compact&theme=radical" alt="Top Languages">
-  <img src = "https://github.r2v.ch/codewars?user=rhy6x&theme=gradient_midnight_puple" width="430px"  alt="Codewars Status"/>
-</p>
+<div align="center">
+  
+  ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
+  ![Codewars](https://github.r2v.ch/codewars?user=rhy6x&stroke=%23BB432C)
+  
+</div>
 
 ### 🌐 Connect with Me
 
