@@ -6,7 +6,7 @@
 ---
 ### 🌟 About Me
 
-- 🔭 **Currently working on**: [ Building projects for my Portfolio](https://eliqarayev.vercel.app/])
+- 🔭 **Currently working on**: [ Building projects for my Portfolio](https://eliqarayev.vercel.app/)
 - 🌱 **Learning**: Continuously exploring new technologies and improving skills
 - 💬 **Ask me about**: Frontend development, JavaScript, or music coding!
 - 🎨 **Design Inspiration**: Functional and minimalistic design
