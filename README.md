@@ -32,7 +32,7 @@
 <div align="center">
   
   ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
-  ![Codewars](https://github.r2v.ch/codewars?user=rhy6x&stroke=%23BB432C)
+  ![Codewars](https://github.r2v.ch/codewars?user=rhy6x&stroke=%23BB432C&hide_clan=true)
   
 </div>
 
