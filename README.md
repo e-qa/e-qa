@@ -10,7 +10,7 @@
 - 🌱 **Learning**: Continuously exploring new technologies and improving skills
 - 💬 **Ask me about**: Frontend development, JavaScript, or music coding!
 - 🎨 **Design Inspiration**: Functional and minimalistic design
-- 🕹️ **Hobbies**: Coding, Music production
+
 
 ### 🛠️ Tech Stack
 
